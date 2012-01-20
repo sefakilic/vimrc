@@ -1,0 +1,6 @@
+my .vimrc file
+
+I decided to build a .vimrc file from scratch instead of copying vimrc settings
+of other vim users blindly.
+
+Move vimrc file to your home directory as .vimrc
