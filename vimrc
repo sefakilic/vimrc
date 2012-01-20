@@ -17,3 +17,4 @@ set incsearch       " incremental search as you type
 set number          " show line numbers
 set mouse=a         " enable the mouse (in xterm or GUI)
 
+filetype indent on  " enable loading indent file for specific file types
