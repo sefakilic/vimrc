@@ -21,6 +21,7 @@ set mouse=a         " enable the mouse (in xterm or GUI)
 filetype indent on  " enable loading indent file for specific file types
 
 "want to learn to use hjkl [stevelosh.com/blog/2010/09/coming-home-to-vim]
+nnoremap <up> <nop>
 nnoremap <down> <nop> 
 nnoremap <left> <nop>
 nnoremap <right> <nop>
