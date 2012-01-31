@@ -18,7 +18,6 @@ set incsearch       " incremental search as you type
 set number          " show line numbers
 set mouse=a         " enable the mouse (in xterm or GUI)
 
-nnoremap <up> <nop>     "
 filetype indent on  " enable loading indent file for specific file types
 
 "want to learn to use hjkl [stevelosh.com/blog/2010/09/coming-home-to-vim]
